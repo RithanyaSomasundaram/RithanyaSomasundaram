@@ -1,107 +1,76 @@
-Hi, I'm Rithanya 👋
+# Hi, I'm Rithanya 👋
 
-🎓 B.Tech Information Technology Student at Sri Krishna College of Engineering and Technology
-💻 Frontend Developer passionate about building scalable web applications
-🚀 Interested in Web Development, AI-powered Applications, and Software Engineering
+🎓 **B.Tech Information Technology Student**
+💻 **Frontend Developer | Problem Solver | Tech Enthusiast**
 📍 India
 
-🛠️ Technical Skills
+I enjoy building **modern, scalable web applications** and exploring technologies related to **AI-powered systems and software engineering**. I focus on writing **clean, reusable code and responsive UI designs**.
 
-Frontend:
+---
 
-React.js, Next.js (App Router)
+## 🚀 Tech Stack
 
-TypeScript, Tailwind CSS
+### 💻 Frontend Development
 
-HTML5, CSS3
+**React.js | Next.js | TypeScript | Tailwind CSS | HTML5 | CSS3**
 
-Programming:
+### ⚙️ Programming Languages
 
-JavaScript (ES6+)
+**JavaScript (ES6+) | Java | C++**
 
-Java
+### 🔗 API & Web Development
 
-C++
+**REST APIs | JSON | Axios / Fetch | Async Data Fetching**
 
-State Management:
+### 🧠 Computer Science Fundamentals
 
-React Hooks
+**Data Structures | OOP | DBMS | Operating Systems | Computer Networks**
 
-Context API
+### 🛠️ Tools & Technologies
 
-Zustand (Basics)
+**Git | GitHub | Postman | VS Code | Docker (Basics)**
 
-API & Backend Integration:
+---
 
-REST APIs
+## 📌 Featured Projects
 
-Async Data Fetching
+### 🔹 College Social Network Platform
 
-JSON
+* Developed **responsive UI components using React**
+* Implemented **reusable component architecture**
+* Integrated **REST APIs with async data fetching**
+* Built authentication flows and user dashboards
 
-Axios / Fetch
+### 🔹 AI Knowledge Assistant (RAG System)
 
-Tools & Technologies:
+* Built an **AI-powered interface integrating LLM APIs**
+* Implemented **semantic search for intelligent responses**
+* Designed scalable **modular frontend components**
 
-Git, GitHub
+### 🔹 Multi-Signature Secure Vault System
 
-Postman
+* Developed **secure REST APIs**
+* Implemented **JWT authentication**
+* Designed **multi-user approval workflows**
 
-VS Code
+---
 
-Docker (Basics)
+## 🏆 Achievements
 
-Core Computer Science:
+🏅 **Smart India Hackathon 2024 – Internal Level Winner**
+☁️ **Oracle Cloud Infrastructure AI Foundations Associate**
+💡 Solved **140+ Data Structures & Algorithms problems on LeetCode**
 
-Data Structures
+---
 
-Object-Oriented Programming
-
-DBMS
-
-Operating Systems
-
-Computer Networks
-
-🚀 Projects
-🔹 College Social Network Platform
-
-Built responsive UI using React with reusable component architecture
-
-Integrated REST APIs with async data fetching
-
-Implemented state management using React Hooks
-
-Developed authentication flows and user interaction dashboards
-
-🔹 AI Knowledge Assistant (RAG System)
-
-Developed AI-powered web interface integrating LLM APIs
-
-Implemented semantic search and intelligent query workflows
-
-Designed modular UI components for scalability
-
-Automated document ingestion and real-time response rendering
-
-🔹 Multi-Signature Secure Vault System
-
-Designed secure REST APIs with multi-user approval workflows
-
-Implemented JWT authentication and role-based access control
-
-Optimized backend APIs for frontend integration
-
-🏆 Achievements
-
-🏅 Smart India Hackathon 2024 – Internal Level Winner
-☁️ Oracle Cloud Infrastructure AI Foundations Associate
-💡 Solved 140+ Data Structures and Algorithms problems on LeetCode
-
-🌐 Connect with Me
+## 🌐 Connect with Me
 
 💼 LinkedIn
 https://www.linkedin.com/in/rithanya-somasundaram-86948132b
 
 💻 GitHub
 https://github.com/RithanyaSomasundaram
+
+---
+
+⭐ *Always learning, building, and improving.*
